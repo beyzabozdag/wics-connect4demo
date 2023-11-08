@@ -9,13 +9,13 @@ COLUMN_COUNT = 7 # number of columns in the board
 def create_board():
 	"""
 	Creates a 6x7 board
-    """
+	"""
 	# ADD CODE HERE
 	pass
 
 def drop_piece(board, row, col, piece):
 	"""
-	Places a piece at the specified location
+	Drops a piece in the board
 	"""
 	# ADD CODE HERE
 	pass
